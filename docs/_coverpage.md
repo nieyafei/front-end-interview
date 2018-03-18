@@ -1,4 +1,4 @@
-![logo](./web-logo-120.png)
+![logo](./web-logo-120.png ':no-zoom')
 
 # Font-end-interview-js
 
