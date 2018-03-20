@@ -36,7 +36,36 @@
         }
       },
       plugins: [
-        window.DocsifyCopyCodePlugin.init()
+        window.DocsifyCopyCodePlugin.init(),
+        function (hook, vm) {
+          hook.doneEach(function(){
+            var path = vm.route.path.split('/').join('');
+            var domObj = Docsify.dom;
+            var main = domObj.getNode("#main");
+
+            Array.apply(null,document.querySelectorAll("div.gitalk-container")).forEach(function(ele){
+              ele.remove();
+            });
+            
+            var divEle = domObj.create("div");
+            divEle.id = "gitalk-container-" + path;
+            divEle.className = "gitalk-container";
+            divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
+            domObj.appendTo(domObj.find(".content"), divEle);
+
+            const gitalk = new Gitalk({
+              clientID: 'c2006121db8149e616b1',
+              clientSecret: 'fd3ccd950b41f136c1dc1767af40f775650d3347',
+              repo: 'front-end-interview-js',
+              owner: 'nieyafei',
+              admin: ['nieyafei'],
+              id: path?path:"home",
+              // facebook-like distraction free mode
+              distractionFreeMode: false
+            })
+            gitalk.render('gitalk-container-' + path);
+          })
+        }
       ]
     }
   </script>
@@ -49,16 +78,6 @@
   <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script>
-    const gitalk = new Gitalk({
-      clientID: 'c2006121db8149e616b1',
-      clientSecret: 'fd3ccd950b41f136c1dc1767af40f775650d3347',
-      repo: 'front-end-interview-js',
-      owner: 'nieyafei',
-      admin: ['nieyafei'],
-      id: location.pathname,
-      // facebook-like distraction free mode
-      distractionFreeMode: false
-    })
   </script>
 </body>
 </html>
