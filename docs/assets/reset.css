@@ -1,9 +1,15 @@
 .gt-container .gt-btn{
     background-color: #9B30FF;
 }
-.gt-container .gt-header-controls-tip,.gt-container a:hover{
+.gt-container .gt-header-controls-tip,.gt-container a:hover,.gt-container a,.gt-container .gt-comment-username{
     color: #9B30FF;
 }
 .gt-container .gt-svg svg{
     fill: #9B30FF;
+}
+.gt-container .gt-link{
+    border-bottom: #9B30FF;
+}
+.gt-container .gt-popup .gt-action.is--active:before{
+    background-color: #9B30FF;
 }
