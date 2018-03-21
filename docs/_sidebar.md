@@ -8,9 +8,10 @@
   * [字符串增加原型方法spacify](string-1.md)
 
 * this
-  * [代码块☆☆☆](this-1.md)
-  * [代码块](this-2.md)
-
+  * [代码块题☆☆☆](this-1.md)
+  * [代码块题](this-2.md)
+  * [代码块题](this-3.md)
+  * [代码块题](this-4.md)
 * Array
   * [代码块题](array-1.md)
   * [数组去重](array-2.md)
