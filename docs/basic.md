@@ -12,17 +12,17 @@
 
 `typeof bar === "object"`用来检测是否为对象的方法，就像`typeof bar === "number"`
 
-```
+```js
 let bar = {a:1,b:2};
 console.log(typeof bar === "object");// true
 ```
 从知识点我们可以知道，判断object的时候，有可能是null,因特殊值`null`会被认为空的对象引用
-```
+```js
 let bar = null;
 console.log(typeof bar === "object");// true
 ```
 因此我们需要首先判断是否为空
-```
+```js
 let bar = null,a = {id:1},c = {},b;
 console.log(bar !== null && typeof bar === "object");// false
 console.log(a !== null && typeof a === "object");// true
@@ -30,7 +30,7 @@ console.log(c !== null && typeof c === "object");// true
 console.log(b !== null && typeof b === "object");// false
 ```
 那么如果`bar`变量是个Array呢？
-```
+```js
 let bar = [];
 console.log(bar !== null && typeof bar === "object");// true
 

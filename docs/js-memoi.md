@@ -8,7 +8,7 @@
 
 请你完成 fibonacci 函数，接受 n 作为参数，可以获取数列中第 n 个数，例如：
 
-```
+```js
 fibonacci(1) // => 1
 fibonacci(2) // => 1
 fibonacci(3) // => 2
@@ -20,7 +20,7 @@ fibonacci(3) // => 2
 
 ### 题目解析答案：
 
-```
+```js
 const fibonacci = ((memo = [0, 1]) => {
   const fib = (n) => {
     let result = memo[n]

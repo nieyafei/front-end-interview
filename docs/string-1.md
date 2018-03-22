@@ -4,7 +4,7 @@
 
 ### 答案解析：
 
-```
+```js
 String.prototype.spacify = function () {
   return this.split('').join(' ')
 }
