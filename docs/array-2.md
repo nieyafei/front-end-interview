@@ -8,7 +8,7 @@
 
 ### 答案解析：
 
-```
+```js
 const unique = (arr) => [...new Set(arr)]
 ```
 

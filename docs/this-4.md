@@ -2,7 +2,7 @@
 
 ### 写出打印结果
 
-```
+```js
 var fullName = "alibaba";
 var obj = {
   fullName:"baidu",

@@ -2,7 +2,7 @@
 
 ### 请回答打印的结果是多少？
 
-```
+```js
 var p1=new Promise(resolve => {
     console.log(1)
     resolve(2)

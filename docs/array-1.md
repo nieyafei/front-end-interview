@@ -1,11 +1,11 @@
 # 代码块
 
-```
+```js
 var obj = {
-"2": "a",
-"3": "b",
-"length": 2,
-"push": Array.prototype.push
+  "2": "a",
+  "3": "b",
+  "length": 2,
+  "push": Array.prototype.push
 }
 obj.push("c");
 obj.push("d");
@@ -18,13 +18,13 @@ obj.push("d");
 
 答案：
 
-```
+```js
 
 var obj = {
-"2": "c",
-"3": "d",
-"length": 4,
-"push": Array.prototype.push
+  "2": "c",
+  "3": "d",
+  "length": 4,
+  "push": Array.prototype.push
 }
 
 

@@ -1,18 +1,18 @@
 # 代码块☆☆☆
 
-```
+```js
 
 var myObject = {
-foo: "bar",
-func: function() {
-var self = this;
-console.log("outer func: this.foo = " + this.foo);
-console.log("outer func: self.foo = " + self.foo);
-(function() {
-console.log("inner func: this.foo = " + this.foo);
-console.log("inner func: self.foo = " + self.foo);
-})()
-}
+  foo: "bar",
+  func: function() {
+    var self = this;
+    console.log("outer func: this.foo = " + this.foo);
+    console.log("outer func: self.foo = " + self.foo);
+    (function() {
+      console.log("inner func: this.foo = " + this.foo);
+      console.log("inner func: self.foo = " + self.foo);
+    })()
+  }
 }
 myObject.func();
 
@@ -20,7 +20,7 @@ myObject.func();
 
 `输出结果如下：`
 
-```
+```js
 outer func: this.foo = bar
 outer func: self.foo = bar
 inner func: this.foo = undefined

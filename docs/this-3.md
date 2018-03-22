@@ -2,7 +2,7 @@
 
 ### 写出打印结果
 
-```
+```js
 function Person(name, age, sex) {
   var a = 0;// 私有化变量
   this.name = name;
