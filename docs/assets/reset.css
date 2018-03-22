@@ -30,7 +30,7 @@
     vertical-align: top;
 }
 
-.sidebar .sidebar-nav li span::before{
+.sidebar .sidebar-nav li span::before,.iconS::before{
     font-family:"iconfont" !important;
     font-size:20px;
     font-style:normal;
@@ -48,4 +48,14 @@
 .sidebar .sidebar-nav li span.new::before{
     content: "\e673";
     font-size: 32px;
+}
+
+.iconS::before{
+    display: inline-block;
+    content: "\e70a";
+    font-size: 30px;
+    color: #9B30FF;
+}
+.sidebar ul li a .iconS::before{
+    font-size: 14px;
 }
