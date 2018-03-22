@@ -3,9 +3,11 @@
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](js-nan.md)
   * [<span></span>记忆化斐波那契函数（Memoization）](js-memoi.md)
   * [javascript有哪几种数据类型](js-1-2.md)
+  * [写一个函数，满足curry(fn)(1)(2)(3)](js-1-3.md)
 * 原型、原型链、继承、作用域
   * [创建“内置”方法 <i class='iconS'></i><i class='iconS'></i>](js-1-1.md)
   * [字符串增加原型方法spacify](string-1.md)
+  * [使用原生JS实现Number原型链方法](js-1-4.md)
 
 * 闭包
   * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](bb-1.md)
