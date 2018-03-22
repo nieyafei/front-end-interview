@@ -16,6 +16,9 @@
   * [代码块题](array-1.md)
   * [数组去重](array-2.md)
 
+* Promise
+  * [<span></span>代码块（阿里二面）<span class="new"></span>](promise-1.md)
+
 * 正则表达式Regexp
   * [检验一个字符串首尾是否含有数字 ☆☆](regexp/regexp-1.md)
   * [<span></span>对字符串var str = "1000000000" 进行科学计数法](regexp/regexp-2.md)
