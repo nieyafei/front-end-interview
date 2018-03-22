@@ -19,9 +19,12 @@
 * Promise
   * [<span></span>代码块（阿里二面）<span class="new"></span>](promise-1.md)
 
-* 正则表达式Regexp
+* <strong>正则表达式Regexp</strong>
   * [检验一个字符串首尾是否含有数字 ☆☆](regexp/regexp-1.md)
   * [<span></span>对字符串var str = "1000000000" 进行科学计数法](regexp/regexp-2.md)
+
+* Js Coding
+  * [优秀的代码技巧](codes.md)
 
 * 其他
   * [Emoji自用-MarkDown](emoji.md)
