@@ -7,6 +7,9 @@
   * [创建“内置”方法 <i class='iconS'></i><i class='iconS'></i>](js-1-1.md)
   * [字符串增加原型方法spacify](string-1.md)
 
+* 闭包
+  * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](bb-1.md)
+
 * this
   * [代码块题 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](this-1.md)
   * [代码块题](this-2.md)
