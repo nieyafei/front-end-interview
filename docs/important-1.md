@@ -88,8 +88,11 @@ new Promise(function executor(resolve) {
 console.log(5);
 ```
 
-**setTimeout**
+**`setTimeout`属于异步进程任务，会放到任务队列等待执行**
 
+**`Promise`里面是立即执行函数，因此先输出2和3，`then`则会在当前tick的最后执行，因此会先输出5，再接着输出4，最后输出1**
+
+> `答案：` 2  3   5   4   1
 
 **参考资料：**
 
