@@ -10,12 +10,36 @@ if (escape(str).indexOf("%u") > 0) {
 
 `Array.isArray()`
 
-```
+```js
 let isArray =(val)=> !!val && Array.isArray(val);
 ```
 
 ## 检查给定的参数是否为本机布尔元素
 
+```js
+let isBoolean =(val)=> typeof val === 'boolean';
 ```
-let isBoolean =(val)=> typeof val === 'boolean'
+
+## 判断参数是否为数字
+
+```js
+let isNumber =(str)=> typeof str === 'number';
+```
+
+## 判断参数是否为字符串
+
+```js
+let isString =(str)=> typeof str === 'string';
+```
+
+## 判断参数是否为符号
+
+```js
+let isSymbol =(str)=> typeof str === 'symbol';
+```
+
+## 判断是否为函数
+
+```js
+let isFunction =(str)=> typeof str === 'function';
 ```
