@@ -41,11 +41,32 @@ for (var i = 0; i < 5; i++) {
 
 ## 第四击
 
+```js
+for (var i = 0; i < 5; i++) {
+  (function() {
+    setTimeout(function() {
+      console.log(i);
+    }, i * 1000);
+  })(i);
+}
+```
+
+> `答案：` 5  5   5   5   5
+
 
 ## 第五击
 
+```js
 
+for (var i = 0; i < 5; i++) {
+  setTimeout((function(i) {
+    console.log(i);
+  })(i), i * 1000);
+}
 
+```
+
+> `答案：` 0  1  2   3   4
 
 **参考资料：**
 
