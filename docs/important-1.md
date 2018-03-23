@@ -25,6 +25,18 @@ for (var i = 0; i < 5; i++) {
 
 ## 第三击
 
+**怎么修改输出0  1  2  3  4**
+
+```js
+# 闭包模式   或者Es6的`let`
+for (var i = 0; i < 5; i++) {
+  (function(i) {
+    setTimeout(function() {
+      console.log(i);
+    }, i * 1000);
+  })(i);
+}
+```
 
 
 ## 第四击
