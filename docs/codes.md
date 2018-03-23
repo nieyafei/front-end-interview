@@ -14,7 +14,7 @@ if (escape(str).indexOf("%u") > 0) {
 let isArray =(val)=> !!val && Array.isArray(val);
 ```
 
-## 检查给定的参数是否为本机布尔元素
+## 检查给定的参数是否为Boolean
 
 ```js
 let isBoolean =(val)=> typeof val === 'boolean';

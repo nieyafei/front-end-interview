@@ -32,7 +32,7 @@
   * [<span></span>对字符串var str = "1000000000" 进行科学计数法](regexp/regexp-2.md)
 
 * Js Coding
-  * [优秀的代码技巧](codes.md)
+  * [判断工具代码技巧](codes.md)
 
 * 其他
   * [Emoji自用-MarkDown](emoji.md)
