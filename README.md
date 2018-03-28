@@ -17,8 +17,10 @@
 
 ### 面试题列表
 
+* 你必须知道的Js面试题
+  * [<span></span>typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](basic.md)
+
 * Js基础
-  * [<span></span>typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](./docs/basic.md)
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](./docs/js-nan.md)
   * [<span></span>记忆化斐波那契函数（Memoization）](./docs/js-memoi.md)
   * [javascript有哪几种数据类型](./docs/js-1-2.md)
