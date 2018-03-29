@@ -26,7 +26,7 @@ var a = b;
 
 因此`typeof a` 是`undefined`, `typeof b`是`number`
 
-**以上是在`非严格模式`下，如果在`严格模式`下，声明`var a = b = 3`；将产生一个运行时错误的`referenceerror：B未定义`**
+**以上是在`非严格模式`下，如果在`严格模式（use strict）`下，声明`var a = b = 3`；将产生一个运行时错误的`ReferenceError: b is not defined`**
 
 **参考资料：**
 

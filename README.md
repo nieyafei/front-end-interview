@@ -20,6 +20,7 @@
 * 你必须知道的Js面试题
   * [<span></span>typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](basic.md)
   * [下面的代码将输出到控制台，为什么？](./docs/mustKnow/mk-1.md)
+  * [代码块2：this有关代码块输出结果？](./docs/mustKnow/mk-2.md)
 
 * Js基础
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](./docs/js-nan.md)
@@ -37,7 +38,6 @@
   * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](./docs/bb-1.md)
 
 * this
-  * [代码块题 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](./docs/this-1.md)
   * [代码块题](./docs/this-2.md)
   * [代码块题](./docs/this-3.md)
   * [代码块题](./docs/this-4.md)
