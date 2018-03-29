@@ -44,3 +44,7 @@ console.log(bar !== null && typeof bar === "object" && !(Array.isArray(bar)));//
 ```
 > Array.isArray()：ES5新增加的判断是否为数组的方法
 instanceof：运算符用来判断一个构造函数的prototype属性所指向的对象是否存在另外一个要检测对象的原型链上
+
+**参考资料：**
+
+[原题来源](https://www.toptal.com/javascript/interview-questions)

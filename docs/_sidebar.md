@@ -1,5 +1,6 @@
 * 你必须知道的Js面试题
-  * [<span></span>typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](basic.md)
+  * [typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](basic.md)
+  * [下面的代码将输出到控制台，为什么？](mustKnow/mk-1.md)
 
 * Js基础
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](js-nan.md)
@@ -31,7 +32,7 @@
 * Promise
   * [<span></span>代码块（阿里二面）<span class="new"></span>](promise-1.md)
 
-* <strong>正则表达式Regexp</strong>
+* 正则表达式Regexp
   * [检验一个字符串首尾是否含有数字 <i class='iconS'></i><i class='iconS'></i>](regexp/regexp-1.md)
   * [<span></span>对字符串var str = "1000000000" 进行科学计数法](regexp/regexp-2.md)
 
