@@ -32,5 +32,7 @@ myObject.func();
 
 在内部函数中， `this` 不再指向 `myObject`。其结果是，`this.foo` 没有在内部函数中被定义，相反，指向到本地的变量`self` 保持在范围内，并且可以访问。 （在ECMA 5之前，在内部函数中的this 将指向全局的 window 对象；反之，因为作为ECMA 5，内部函数中的功能this 是未定义的。）
 
+**参考资料：**
 
+[原题来源](https://www.toptal.com/javascript/interview-questions)
 
