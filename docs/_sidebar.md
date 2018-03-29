@@ -12,6 +12,7 @@
   * [写一个少于 80 字符的函数，判断一个字符串是不是回文字符串](mustKnow/mk-10.md)
   * [写一个按照下面方式调用都能正常工作的 sum 方法](mustKnow/mk-11.md)
   * [根据下面的代码片段回答后面的问题<i class='iconS'></i>](mustKnow/mk-12.md)
+  * [假设`变量d`是一个空的对象(object)](mustKnow/mk-13.md)
 
 * Js基础
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](js-nan.md)
