@@ -1,4 +1,4 @@
-# 严格模式下进行 Javascript 开发有什么好处？
+# 5、严格模式下进行 Javascript 开发有什么好处？
 
 ?> What is the significance, and what are the benefits, of including 'use strict' at the beginning of a JavaScript source file?
 

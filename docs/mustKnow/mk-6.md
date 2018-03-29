@@ -1,4 +1,4 @@
-# NaN 是什么？typeof 的结果是？如果判断一个变量的值是 NaN？
+# 7、NaN 是什么？typeof 的结果是？如果判断一个变量的值是 NaN？
 
 ?> What is NaN? What is its type? How can you reliably test if a value is equal to NaN?
 

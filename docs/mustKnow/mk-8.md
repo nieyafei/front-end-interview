@@ -1,4 +1,4 @@
-# 写一个方法 isInterger(x)，可以用来判断一个变量是否是整数
+# 9、写一个方法 isInterger(x)，可以用来判断一个变量是否是整数
 
 ?> Discuss possible ways to write a function isInteger(x) that determines if x is an integer.
 

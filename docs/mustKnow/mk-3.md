@@ -1,4 +1,4 @@
-# 为什么要用立即执行函数表达式（Immediately-Invoked Function Expression）？
+# 4、为什么要用立即执行函数表达式（Immediately-Invoked Function Expression）？
 
 ?> What is the significance of, and reason for, wrapping the entire content of a JavaScript source file in a function block?
 

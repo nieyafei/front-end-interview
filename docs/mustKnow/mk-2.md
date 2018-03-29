@@ -1,4 +1,4 @@
-# 下面的代码将输出到控制台，为什么？<i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>
+# 3、下面的代码将输出到控制台，为什么？<i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>
 
 ```js
 var myObject = {

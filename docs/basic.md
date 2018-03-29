@@ -1,4 +1,4 @@
-# 使用 typeof bar === "object" 来确定 bar 是否是对象的潜在陷阱是什么？如何避免这个陷阱？<i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>
+# 1、使用 typeof bar === "object" 来确定 bar 是否是对象的潜在陷阱是什么？如何避免这个陷阱？<i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>
 
 ### 知识点
 
