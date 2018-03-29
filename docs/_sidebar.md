@@ -9,6 +9,9 @@
   * [解释一下下面有关浮点数代码的输出?](mustKnow/mk-7.md)
   * [写一个方法 isInterger(x)，可以用来判断一个变量是否是整数](mustKnow/mk-8.md)
   * [在下面的代码中，数字 1-4 会以什么顺序输出？为什么会这样输出？](mustKnow/mk-9.md)
+  * [写一个少于 80 字符的函数，判断一个字符串是不是回文字符串](mustKnow/mk-10.md)
+  * [写一个按照下面方式调用都能正常工作的 sum 方法](mustKnow/mk-11.md)
+  * [根据下面的代码片段回答后面的问题<i class='iconS'></i>](mustKnow/mk-12.md)
 
 * Js基础
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](js-nan.md)
