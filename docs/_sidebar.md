@@ -1,4 +1,4 @@
-* 你必须知道的Js面试题
+* 你必须知道的Js面试题（37题）
   * [typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](basic.md)
   * [代码块1：下面的代码将输出到控制台，为什么？](mustKnow/mk-1.md)
   * [代码块2：this有关代码块输出结果？<i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](mustKnow/mk-2.md)
@@ -6,6 +6,9 @@
   * [严格模式下进行 Javascript 开发有什么好处？](mustKnow/mk-4.md)
   * [两个函数运行结果一样吗？为什么？](mustKnow/mk-5.md)
   * [NaN 是什么？typeof 的结果是？如果判断一个变量的值是 NaN？](mustKnow/mk-6.md)
+  * [解释一下下面有关浮点数代码的输出?](mustKnow/mk-7.md)
+  * [写一个方法 isInterger(x)，可以用来判断一个变量是否是整数](mustKnow/mk-8.md)
+  * [在下面的代码中，数字 1-4 会以什么顺序输出？为什么会这样输出？](mustKnow/mk-9.md)
 
 * Js基础
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](js-nan.md)

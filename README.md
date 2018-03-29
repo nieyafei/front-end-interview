@@ -25,6 +25,7 @@
   * [严格模式下进行 Javascript 开发有什么好处？](./docs/mustKnow/mk-4.md)
   * [两个函数运行结果一样吗？为什么？](./docs/mustKnow/mk-5.md)
   * [NaN 是什么？typeof 的结果是？如果判断一个变量的值是 NaN？](./docs/mustKnow/mk-6.md)
+  * [解释一下下面有关浮点数代码的输出?](./docs/mustKnow/mk-7.md)
 
 * Js基础
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](./docs/js-nan.md)
