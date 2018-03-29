@@ -25,7 +25,17 @@
   * [24、下面的代码块，会输出什么？为什么？](mustKnow/mk-23.md)
   * [25、执行以下代码时输出是什么？解释一下为什么？](mustKnow/mk-24.md)
   * [26、创建一个函数，给定页面上的DOM元素，将访问元素本身和它的所有后代（不只是其直系子女）。对于所访问的每个元素，函数应该将该元素传递给所提供的回调函数。](mustKnow/mk-25.md)
-  * [27、用JavaScript测试你的知识：以下代码的输出是什么？](mustKnow/mk-26.md)
+  * [27、用JavaScript测试你的知识：以下代码的输出是什么？<span class='new'></span>](mustKnow/mk-26.md)
+  * [28、下面的代码块，会输出什么？为什么？<span class='new'></span>](mustKnow/mk-27.md)
+  * [28、下面的代码块，会输出什么？](mustKnow/mk-28.md)
+  * [30、如何克隆一个Object对象？](mustKnow/mk-29.md)
+  * [31、下面的代码块，会输出什么？](mustKnow/mk-30.md)
+  * [32、执行以下代码时输出是什么？解释一下为什么？](mustKnow/mk-31.md)
+  * [33、如何在数组的开头添加元素？你怎么在结尾加上一个？](mustKnow/mk-32.md)
+  * [34、下面有个代码块，根据赋值查看结果](mustKnow/mk-33.md)
+  * [35、typeof undefined == typeof NULL的结果？](mustKnow/mk-34.md)
+  * [36、下面代码会返回什么？](mustKnow/mk-35.md)
+  * [37、下面的代码块，会输出什么？为什么？<span class='new'></span>](mustKnow/mk-36.md)
 
 * Js基础
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](js-nan.md)
