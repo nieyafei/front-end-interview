@@ -5,6 +5,7 @@
   * [为什么要用立即执行函数表达式（Immediately-Invoked Function Expression）?](mustKnow/mk-3.md)
   * [严格模式下进行 Javascript 开发有什么好处？](mustKnow/mk-4.md)
   * [两个函数运行结果一样吗？为什么？](mustKnow/mk-5.md)
+  * [NaN 是什么？typeof 的结果是？如果判断一个变量的值是 NaN？](mustKnow/mk-6.md)
 
 * Js基础
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](js-nan.md)

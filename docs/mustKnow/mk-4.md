@@ -17,3 +17,5 @@
 [Javascript 严格模式详解](http://www.ruanyifeng.com/blog/2013/01/javascript_strict_mode)
 
 [MDN: 严格模式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Strict_mode)
+
+[原题来源](https://www.toptal.com/javascript/interview-questions)
