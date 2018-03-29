@@ -21,6 +21,8 @@
   * [<span></span>typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](basic.md)
   * [下面的代码将输出到控制台，为什么？](./docs/mustKnow/mk-1.md)
   * [代码块2：this有关代码块输出结果？](./docs/mustKnow/mk-2.md)
+  * [为什么要用立即执行函数表达式（Immediately-Invoked Function Expression）?](./docs/mustKnow/mk-3.md)
+  * [严格模式下进行 Javascript 开发有什么好处？](./docs/mustKnow/mk-4.md)
 
 * Js基础
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](./docs/js-nan.md)
