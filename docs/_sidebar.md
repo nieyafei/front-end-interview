@@ -83,6 +83,16 @@
   * [神鬼莫测之变量提升](reallyKnow/rk-5.md)
   * [死循环陷阱](reallyKnow/rk-6.md)
   * [过滤器魔法](reallyKnow/rk-7.md)
+  * [警惕IEEE 754标准](reallyKnow/rk-8.md)
+  * [字符串陷阱](reallyKnow/rk-9.md)
+  * [并非都是奇偶](reallyKnow/rk-10.md)
+  * [parseInt小贼](reallyKnow/rk-11.md)
+  * [数组原型是数组](reallyKnow/rk-12.md)
+  * [强制转换](reallyKnow/rk-13.md)
+  * [关于“==”](reallyKnow/rk-14.md)
+  * [加号 VS 减号](reallyKnow/rk-15.md)
+  * [该死的代码加减](reallyKnow/rk-16.md)
+  * [淘气的map](reallyKnow/rk-17.md)
 
 * 必看题目
   * [<span></span>setTimeout面试连击题](important-1.md)
