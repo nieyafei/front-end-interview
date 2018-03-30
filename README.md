@@ -77,10 +77,11 @@
   * [代码块题](./docs/this-4.md)
   
 * Array
-  * [代码块题](./docs/array-1.md)
-  * [数组去重](./docs/array-2.md)
-  * [数组的原生方法有哪些？](./docs/array-3.md)
-  * [<span></span>如何判断一个变量是否为数组？<i class='iconS'></i><i class='iconS'></i>](./docs/array-4.md)
+  * [找出数字数组中最大的元素（使用Math.max函数）](./docs/array/array-5.md)
+  * [下面代码块输出结果？](./docs/array/array-1.md)
+  * [编写一个函数，进行数组去重](./docs/array/array-2.md)
+  * [数组的原生方法有哪些？](./docs/array/array-3.md)
+  * [<span></span>如何判断一个变量是否为数组？<i class='iconS'></i><i class='iconS'></i>](./docs/array/array-4.md)
 
 * Promise
   * [<span></span>代码块（阿里二面）<span class="new"></span>](./docs/promise-1.md)
