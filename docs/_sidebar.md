@@ -56,6 +56,7 @@
   * [1、代码块题](this/this-2.md)
   * [2、代码块题](this/this-3.md)
   * [3、代码块题](this/this-4.md)
+  * [4、代码块题](this/this-5.md)
   
 * Array
   * [找出数字数组中最大的元素（使用Math.max函数）](array/array-5.md)
@@ -79,7 +80,10 @@
   * [关于null](reallyKnow/rk-2.md)
   * [对于愤怒的reduce](reallyKnow/rk-3.md)
   * [头痛的优先级](reallyKnow/rk-4.md)
-  
+  * [神鬼莫测之变量提升](reallyKnow/rk-5.md)
+  * [死循环陷阱](reallyKnow/rk-6.md)
+  * [过滤器魔法](reallyKnow/rk-7.md)
+
 * 必看题目
   * [<span></span>setTimeout面试连击题](important-1.md)
 
