@@ -93,6 +93,9 @@
   * [加号 VS 减号](reallyKnow/rk-15.md)
   * [该死的代码加减](reallyKnow/rk-16.md)
   * [淘气的map](reallyKnow/rk-17.md)
+  * [<span></span>对于arguments](reallyKnow/rk-18.md)
+  * [损失精度的IEEE 754](reallyKnow/rk-19.md)
+  * [反转reverse](reallyKnow/rk-20.md)
 
 * 必看题目
   * [<span></span>setTimeout面试连击题](important-1.md)
