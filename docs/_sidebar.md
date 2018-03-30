@@ -96,6 +96,9 @@
   * [<span></span>对于arguments](reallyKnow/rk-18.md)
   * [损失精度的IEEE 754](reallyKnow/rk-19.md)
   * [反转reverse](reallyKnow/rk-20.md)
+  * [最小的正值](reallyKnow/rk-21.md)
+  * [谨记优先级](reallyKnow/rk-22.md)
+  * [最经典的WTF](reallyKnow/rk-23.md)
 
 * 必看题目
   * [<span></span>setTimeout面试连击题](important-1.md)
