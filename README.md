@@ -72,9 +72,9 @@
   * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](./docs/bb-1.md)
 
 * this
-  * [代码块题](./docs/this-2.md)
-  * [代码块题](./docs/this-3.md)
-  * [代码块题](./docs/this-4.md)
+  * [代码块题](./docs/this/this-2.md)
+  * [代码块题](./docs/this/this-3.md)
+  * [代码块题](./docs/this/this-4.md)
   
 * Array
   * [找出数字数组中最大的元素（使用Math.max函数）](./docs/array/array-5.md)
