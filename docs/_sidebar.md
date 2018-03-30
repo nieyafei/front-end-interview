@@ -78,6 +78,7 @@
   * [当parseInt遇到map](reallyKnow/rk-1.md)
   * [关于null](reallyKnow/rk-2.md)
   * [对于愤怒的reduce](reallyKnow/rk-3.md)
+  * [头痛的优先级](reallyKnow/rk-4.md)
   
 * 必看题目
   * [<span></span>setTimeout面试连击题](important-1.md)

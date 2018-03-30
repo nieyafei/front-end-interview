@@ -96,6 +96,8 @@
 * JavaScript Puzzlers!(Js谜题)
   * [当parseInt遇到map](./docs/reallyKnow/rk-1.md)
   * [关于null](.docs/reallyKnow/rk-2.md)
+  * [对于愤怒的reduce](.docs/reallyKnow/rk-3.md)
+  * [头痛的优先级](.docs/reallyKnow/rk-4.md)
 
 * 必看题目
   * [<span></span>setTimeout面试连击题](./docs/important-1.md)
