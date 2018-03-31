@@ -72,9 +72,11 @@
   * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](./docs/bb-1.md)
 
 * <strong>this</strong>
+  * [经典关于this面试知识点题目](./docs/this/this-6.md)
   * [1、代码块题](./docs/this/this-2.md)
   * [2、代码块题](./docs/this/this-3.md)
   * [3、代码块题](./docs/this/this-4.md)
+  * [4、代码块题](./docs/this/this-5.md)
   
 * <strong>Array</strong>
   * [找出数字数组中最大的元素（使用Math.max函数）](./docs/array/array-5.md)

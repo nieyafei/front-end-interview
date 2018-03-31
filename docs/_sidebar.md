@@ -53,6 +53,7 @@
   * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](bb-1.md)
 
 * this
+  * [经典关于this面试知识点题目](this/this-6.md)
   * [1、代码块题](this/this-2.md)
   * [2、代码块题](this/this-3.md)
   * [3、代码块题](this/this-4.md)
