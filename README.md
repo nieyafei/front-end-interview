@@ -117,6 +117,12 @@
   * [最小的正值](.docs/reallyKnow/rk-21.md)
   * [谨记优先级](.docs/reallyKnow/rk-22.md)
   * [最经典的WTF](.docs/reallyKnow/rk-23.md)
+  * [小数点魔法](.docs/reallyKnow/rk-24.md)
+  * [自动提升为全局变量](.docs/reallyKnow/rk-25.md)
+  * [正则表达式](.docs/reallyKnow/rk-26.md)
+  * [数组比大小](.docs/reallyKnow/rk-27.md)
+  * [原型把戏](.docs/reallyKnow/rk-28.md)
+  * [构造函数的函数](.docs/reallyKnow/rk-29.md)
 
 * <strong>必看题目</strong>
   * [<span></span>setTimeout面试连击题](./docs/important-1.md)
