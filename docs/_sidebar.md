@@ -77,6 +77,8 @@
   * [对连字符串转换为驼峰命名法](regexp/regexp-6.md)
   * [判断是否以元音字母结尾](regexp/regexp-7.md)
   * [邮政编码的验证（开头不能为0，共6位）](regexp/regexp-8.md)
+  * [匹配ip地址](regexp/regexp-9.md)
+  * [检测人民币金额，两位小数](regexp/regexp-10.md)
 
 * Js Coding
   * [判断工具代码技巧](codes.md)
