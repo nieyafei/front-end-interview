@@ -72,6 +72,11 @@
 * 正则表达式Regexp
   * [检验一个字符串首尾是否含有数字 <i class='iconS'></i><i class='iconS'></i>](regexp/regexp-1.md)
   * [<span></span>对字符串var str = "1000000000" 进行科学计数法](regexp/regexp-2.md)
+  * [判断字符串是否包含数字](regexp/regexp-4.md)
+  * [判断是否符合 USD 格式](regexp/regexp-5.md)
+  * [对连字符串转换为驼峰命名法](regexp/regexp-6.md)
+  * [判断是否以元音字母结尾](regexp/regexp-7.md)
+  * [邮政编码的验证（开头不能为0，共6位）](regexp/regexp-8.md)
 
 * Js Coding
   * [判断工具代码技巧](codes.md)

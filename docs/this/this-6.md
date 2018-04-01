@@ -38,3 +38,5 @@ foo.bar()
 **参考资料：**
 
 [逗号运算符](https://www.zhihu.com/question/27620371)
+
+[浅谈JS中逗号运算符的用法](http://www.jb51.net/article/86349.htm)
