@@ -65,6 +65,8 @@
   * [如何获取UA？](./docs/basic/js-1-8.md)
 
 * <strong>原型、原型链、继承、作用域</strong>
+  * [什么是原型，原型有什么特点?](./docs/basic/pro-1.md)
+  * [什么是原型链，原型链有什么特点?](./docs/basic/pro-2.md)
   * [创建“内置”方法 <i class='iconS'></i><i class='iconS'></i>](./docs/basic/js-1-1.md)
   * [字符串增加原型方法spacify](./docs/string-1.md)
   * [使用原生JS实现Number原型链方法](./docs/basic/js-1-4.md)
