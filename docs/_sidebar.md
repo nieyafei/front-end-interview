@@ -121,6 +121,7 @@
 
 * 必看题目
   * [<span></span>setTimeout面试连击题](important-1.md)
+  * [涉及同步、异步、作用域、闭包四连问](important/im-2.md)
 
 * 其他
   * [Emoji自用-MarkDown](emoji.md)

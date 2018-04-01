@@ -140,6 +140,7 @@
 
 * <strong>必看题目</strong>
   * [<span></span>setTimeout面试连击题](./docs/important-1.md)
+  * [涉及同步、异步、作用域、闭包四连问](./docs/important/im-2.md)
 
 * <strong>其他</strong>
   * [Emoji自用-MarkDown](./docs/emoji.md)
