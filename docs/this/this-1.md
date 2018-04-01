@@ -1,33 +1,25 @@
-# 代码块 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>
+# 对于this对象的理解
 
-```js
+?>`谁调用的方法this就是指向谁`
 
-var myObject = {
-  foo: "bar",
-  func: function() {
-    var self = this;
-    console.log("outer func: this.foo = " + this.foo);
-    console.log("outer func: self.foo = " + self.foo);
-    (function() {
-      console.log("inner func: this.foo = " + this.foo);
-      console.log("inner func: self.foo = " + self.foo);
-    })()
-  }
-}
-myObject.func();
+首先要理解`调用位置`,调用位置就是函数在代码中被调用的位置（而不是声明的位置）。
 
-```
+具体详情，我建议看一下`《你不知道的js》`这本书
 
-`输出结果如下：`
+|调用形式|this指向|
+|:-----:|:-----:|
+|普通函数|window|
+|构造函数|实例化后的对象|
+|对象的方法|该对象|
+|DOM节点|该节点对象|
+|call或者apply|传入的第一个参数|
 
-```js
-outer func: this.foo = bar
-outer func: self.foo = bar
-inner func: this.foo = undefined
-inner func: self.foo = bar
+**参考资料：**
 
-```
+[MDN: this](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/this)
 
-在外部函数func中的，this指向的对象是myObject,因此self也指向myObject
+[深入理解this对象](https://blog.csdn.net/woshinannan741/article/details/51146889)
 
-在内部函数中， this 不再指向 myObject。其结果是，this.foo 没有在内部函数中被定义，相反，指向到本地的变量self 保持在范围内，并且可以访问。 （在ECMA 5之前，在内部函数中的this 将指向全局的 window 对象；反之，因为作为ECMA 5，内部函数中的功能this 是未定义的。）
+[如何理解 JavaScript 中的 this 关键字？](https://www.zhihu.com/question/19636194)
+
+[JavaScript中的对象查找](http://www.otakustay.com/object-lookup-in-javascript/)

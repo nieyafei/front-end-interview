@@ -59,19 +59,22 @@
 * <strong>Js基础</strong>
   * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](./docs/js-nan.md)
   * [<span></span>记忆化斐波那契函数（Memoization）](./docs/js-memoi.md)
-  * [javascript有哪几种数据类型](./docs/js-1-2.md)
-  * [写一个函数，满足curry(fn)(1)(2)(3)](./docs/js-1-3.md)
+  * [javascript有哪几种数据类型](./docs/basic/js-1-2.md)
+  * [写一个函数，满足curry(fn)(1)(2)(3)](./docs/basic/js-1-3.md)
+  * [undefined与null的区别](./docs/basic/js-1-7.md)
+  * [如何获取UA？](./docs/basic/js-1-8.md)
 
 * <strong>原型、原型链、继承、作用域</strong>
-  * [创建“内置”方法 <i class='iconS'></i><i class='iconS'></i>](./docs/js-1-1.md)
+  * [创建“内置”方法 <i class='iconS'></i><i class='iconS'></i>](./docs/basic/js-1-1.md)
   * [字符串增加原型方法spacify](./docs/string-1.md)
-  * [使用原生JS实现Number原型链方法](./docs/js-1-4.md)
-  * [代码片段，请输出结果？](./docs/js-1-5.md)
+  * [使用原生JS实现Number原型链方法](./docs/basic/js-1-4.md)
+  * [代码片段，请输出结果？](./docs/basic/js-1-5.md)
 
 * <strong>闭包</strong>
   * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](./docs/bb-1.md)
 
 * <strong>this</strong>
+  * [对于this对象的理解](./docs/this/this-7.md)
   * [经典关于this面试知识点题目](./docs/this/this-6.md)
   * [1、代码块题](./docs/this/this-2.md)
   * [2、代码块题](./docs/this/this-3.md)
