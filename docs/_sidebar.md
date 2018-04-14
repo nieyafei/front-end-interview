@@ -52,6 +52,7 @@
   * [字符串增加原型方法spacify](string-1.md)
   * [使用原生JS实现Number原型链方法](basic/js-1-4.md)
   * [代码片段，请输出结果？](basic/js-1-5.md)
+  * [请说出下面的代码块输出结果？](basic/js-1-9.md)
 
 * 闭包
   * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](bb-1.md)
