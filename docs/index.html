@@ -10,11 +10,9 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
   <link rel="stylesheet" href="./assets/reset.css">
-  <link rel="stylesheet" href="//unpkg.com/docsify-copy-code/styles.css">
 </head>
 <body>
   <div id="app">欢迎访问CODEHTML,蜗牛正在LOADING...</div>
-  <script src="//unpkg.com/docsify-copy-code/index.js"></script>
   <script>
     window.$docsify = {
       name: 'Font-end-interview-js',
@@ -37,7 +35,6 @@
         }
       },
       plugins: [
-        window.DocsifyCopyCodePlugin.init(),
         function (hook, vm) {
           hook.doneEach(function(){
             var path = vm.route.path.split('/').join('');
@@ -71,6 +68,7 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="https://unpkg.com/docsify-copy-code"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/ga.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
