@@ -44,6 +44,7 @@
   * [写一个函数，满足curry(fn)(1)(2)(3)](basic/js-1-3.md)
   * [undefined与null的区别](basic/js-1-7.md)
   * [如何获取UA？](basic/js-1-8.md)
+  * [<span></span>解释代码块结果？](basic/js-1-10.md)
 
 * 原型、原型链、继承、作用域
   * [什么是原型，原型有什么特点?](basic/pro-1.md)

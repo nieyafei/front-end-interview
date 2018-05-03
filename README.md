@@ -63,6 +63,7 @@
   * [写一个函数，满足curry(fn)(1)(2)(3)](./docs/basic/js-1-3.md)
   * [undefined与null的区别](./docs/basic/js-1-7.md)
   * [如何获取UA？](./docs/basic/js-1-8.md)
+  * [解释代码块结果？](./docs/basic/js-1-10.md)
 
 * <strong>原型、原型链、继承、作用域</strong>
   * [什么是原型，原型有什么特点?](./docs/basic/pro-1.md)
