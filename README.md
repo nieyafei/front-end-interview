@@ -77,7 +77,7 @@
   * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](./docs/bb-1.md)
 
 * <strong>this</strong>
-  * [对于this对象的理解](./docs/this/this-7.md)
+  * [对于this对象的理解](./docs/this/this-1.md)
   * [经典关于this面试知识点题目](./docs/this/this-6.md)
   * [1、代码块题](./docs/this/this-2.md)
   * [2、代码块题](./docs/this/this-3.md)
