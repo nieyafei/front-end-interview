@@ -1,3 +1,6 @@
+* NEWS(10个)<span class="new"></span>
+  * [setTimeout最小间隔4ms的问题](basic/settimeout.md)
+
 * 你必须知道的Js面试题（37题）
   * [1、typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](basic.md)
   * [2、代码块1：下面的代码将输出到控制台，为什么？](mustKnow/mk-1.md)
