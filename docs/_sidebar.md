@@ -1,4 +1,5 @@
 * NEWS(10个)<span class="new"></span>
+  * [Promise、async、await执行顺序（头条）](promise/p-2.md)
   * [setTimeout最小间隔4ms的问题](basic/settimeout.md)
 
 * 你必须知道的Js面试题（37题）
@@ -79,6 +80,7 @@
 * Promise
   * [<span></span>代码块（阿里二面）<span class="new"></span>](promise-1.md)
   * [<span></span>Promise中的执行顺序](promise/p-1.md)
+  * [Promise、async、await执行顺序（头条）](promise/p-2.md)
 
 * 正则表达式Regexp
   * [检验一个字符串首尾是否含有数字 <i class='iconS'></i><i class='iconS'></i>](regexp/regexp-1.md)
