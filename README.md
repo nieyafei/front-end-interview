@@ -22,6 +22,7 @@
   * [call和apply的区别，性能哪一个更好？](./docs/basic/js-1-11.md)
   * [Promise、async、await执行顺序（头条）](./docs/promise/p-2.md)
   * [setTimeout最小间隔4ms的问题](./docs/basic/settimeout.md)
+  * [如何合并数组中相邻且重复的元素?](./docs/basic/js-1-14.md)
 
 * <strong>你必须知道的Js面试题</strong>
   * [1、typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](./docs/basic.md)
