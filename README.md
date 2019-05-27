@@ -17,6 +17,7 @@
 
 ### 面试题列表
 * NEWS(10个)<span class="new"></span>
+  * [如何使用setTimeout代替setInterval进行间歇调用](./docs/basic/js-1-15.md)
   * [如何修复输出值中的 undefined ？(阿里)](./docs/basic/js-1-13.md)
   * [严格模式下的执行结果如何？(代码)](./docs/basic/js-1-12.md)
   * [call和apply的区别，性能哪一个更好？](./docs/basic/js-1-11.md)
