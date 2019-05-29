@@ -1,4 +1,5 @@
 * NEWS(10个)<span class="new"></span>
+  * [var、let 和 const 区别的实现原理是什么?](basic/js-1-16.md)
   * [如何使用setTimeout代替setInterval进行间歇调用](basic/js-1-15.md)
   * [如何修复输出值中的 undefined ？(阿里)](basic/js-1-13.md)
   * [严格模式下的执行结果如何？(代码)](basic/js-1-12.md)
@@ -6,6 +7,10 @@
   * [Promise、async、await执行顺序（头条）](promise/p-2.md)
   * [setTimeout最小间隔4ms的问题](basic/settimeout.md)
   * [如何合并数组中相邻且重复的元素?](basic/js-1-14.md)
+
+* 必看题目
+  * [<span></span>setTimeout面试连击题](important-1.md)
+  * [涉及同步、异步、作用域、闭包四连问](important/im-2.md)
 
 * 你必须知道的Js面试题（37题）
   * [1、typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](basic.md)
@@ -145,10 +150,6 @@
   * [熟悉到陌生的Date](reallyKnow/rk-41.md)
   * [匹配隐式转换](reallyKnow/rk-42.md)
   * [重复声明变量](reallyKnow/rk-43.md)
-
-* 必看题目
-  * [<span></span>setTimeout面试连击题](important-1.md)
-  * [涉及同步、异步、作用域、闭包四连问](important/im-2.md)
 
 * 其他
   * [Emoji自用-MarkDown](emoji.md)
