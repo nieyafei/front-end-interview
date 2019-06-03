@@ -1,4 +1,5 @@
 * NEWS(10个)<span class="new"></span>
+  * [如何实现一个 new?](basic/js-1-17.md)
   * [var、let 和 const 区别的实现原理是什么?](basic/js-1-16.md)
   * [如何使用setTimeout代替setInterval进行间歇调用](basic/js-1-15.md)
   * [如何修复输出值中的 undefined ？(阿里)](basic/js-1-13.md)
