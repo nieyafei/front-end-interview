@@ -2,7 +2,7 @@
 
 # Font-end-interview-js
 
-> 前端面试interview的JS题目收集，持续更新(目前130道)
+> 前端面试interview的JS题目收集，持续更新(目前131道)
 
 > **勿浅尝辄止**
 

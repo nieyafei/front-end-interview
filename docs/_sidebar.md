@@ -1,4 +1,5 @@
 * NEWS(10个)<span class="new"></span>
+  * [for in 和 for of 的区别？](basic/js-1-18.md)
   * [如何实现一个 new?](basic/js-1-17.md)
   * [var、let 和 const 区别的实现原理是什么?](basic/js-1-16.md)
   * [如何使用setTimeout代替setInterval进行间歇调用](basic/js-1-15.md)
