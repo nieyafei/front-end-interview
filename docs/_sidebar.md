@@ -1,4 +1,5 @@
 * NEWS(10个)<span class="new"></span>
+  * [('b'+'a'+ + 'a'+'a').toLowerCase() === 'banana'？](basic/js-1-20.md)
   * [代码块输出结果？(完美世界)](basic/js-1-19.md)
   * [for in 和 for of 的区别？](basic/js-1-18.md)
   * [如何实现一个 new?](basic/js-1-17.md)

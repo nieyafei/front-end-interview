@@ -18,6 +18,7 @@
 ### 面试题列表
 
 * NEWS(10个)<span class="new"></span>
+  * [('b'+'a'+ + 'a'+'a').toLowerCase() === 'banana'？](./docs/basic/js-1-20.md)
   * [代码块输出结果？(完美世界)](./docs/basic/js-1-19.md)
   * [for in 和 for of 的区别？](./docs/basic/js-1-18.md)
   * [如何实现一个 new?](./docs/basic/js-1-17.md)
