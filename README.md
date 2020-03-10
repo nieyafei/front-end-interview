@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/nieyafei/front-end-interview-js.svg?branch=master)](https://travis-ci.org/nieyafei/front-end-interview-js)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-前端面试interview的Js题目收集，持续更新，勿浅尝辄止
+前端面试interview的Js题目收集，持续更新，勿浅尝辄止（目前132道）
 
 - [在线访问](http://codehtml.cn/front-end-interview-js/)
 
@@ -17,7 +17,7 @@
 
 ### 面试题列表
 
-* NEWS(10个)<span class="new"></span>
+* NEWS<span class="new"></span>
   * [如何让(a===1&&a===2&&a===3)的值为true?](./docs/basic/js-1-22.md)
   * [代码块输出结果？](./docs/basic/js-1-21.md)
   * [('b'+'a'+ + 'a'+'a').toLowerCase() === 'banana'？](./docs/basic/js-1-20.md)
