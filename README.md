@@ -37,6 +37,59 @@
   * [<span></span>setTimeout面试连击题](./docs/important-1.md)
   * [涉及同步、异步、作用域、闭包四连问](./docs/important/im-2.md)
 
+* <strong>Js基础</strong>
+  * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](./docs/js-nan.md)
+  * [<span></span>记忆化斐波那契函数（Memoization）](./docs/js-memoi.md)
+  * [javascript有哪几种数据类型](./docs/basic/js-1-2.md)
+  * [写一个函数，满足curry(fn)(1)(2)(3)](./docs/basic/js-1-3.md)
+  * [undefined与null的区别](./docs/basic/js-1-7.md)
+  * [如何获取UA？](./docs/basic/js-1-8.md)
+  * [解释代码块结果？](./docs/basic/js-1-10.md)
+
+* <strong>原型、原型链、继承、作用域</strong>
+  * [什么是原型，原型有什么特点?](./docs/basic/pro-1.md)
+  * [什么是原型链，原型链有什么特点?](./docs/basic/pro-2.md)
+  * [创建“内置”方法 <i class='iconS'></i><i class='iconS'></i>](./docs/basic/js-1-1.md)
+  * [字符串增加原型方法spacify](./docs/string-1.md)
+  * [使用原生JS实现Number原型链方法](./docs/basic/js-1-4.md)
+  * [代码片段，请输出结果？](./docs/basic/js-1-5.md)
+
+* <strong>闭包</strong>
+  * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](./docs/bb-1.md)
+
+* <strong>this</strong>
+  * [对于this对象的理解](./docs/this/this-1.md)
+  * [经典关于this面试知识点题目](./docs/this/this-6.md)
+  * [1、代码块题](./docs/this/this-2.md)
+  * [2、代码块题](./docs/this/this-3.md)
+  * [3、代码块题](./docs/this/this-4.md)
+  * [4、代码块题](./docs/this/this-5.md)
+  
+* <strong>Array</strong>
+  * [找出数字数组中最大的元素（使用Math.max函数）](./docs/array/array-5.md)
+  * [下面代码块输出结果？](./docs/array/array-1.md)
+  * [编写一个函数，进行数组去重](./docs/array/array-2.md)
+  * [数组的原生方法有哪些？](./docs/array/array-3.md)
+  * [如何判断一个变量是否为数组？<i class='iconS'></i><i class='iconS'></i>](./docs/array/array-4.md)
+  * [编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组](./docs/array/array-6.md)
+
+* <strong>Promise</strong>
+  * [<span></span>代码块（阿里二面）<span class="new"></span>](./docs/promise-1.md)
+
+* <strong>正则表达式Regexp</strong>
+  * [检验一个字符串首尾是否含有数字 <i class='iconS'></i><i class='iconS'></i>](./docs/regexp/regexp-1.md)
+  * [对字符串var str = "1000000000" 进行科学计数法](./docs/regexp/regexp-2.md)
+  * [判断字符串是否包含数字](./docs/regexp/regexp-4.md)
+  * [判断是否符合 USD 格式](./docs/regexp/regexp-5.md)
+  * [对连字符串转换为驼峰命名法](./docs/regexp/regexp-6.md)
+  * [判断是否以元音字母结尾](./docs/regexp/regexp-7.md)
+  * [邮政编码的验证（开头不能为0，共6位）](./docs/regexp/regexp-8.md)
+  * [匹配ip地址](./docs/regexp/regexp-9.md)
+  * [检测人民币金额，两位小数](./docs/regexp/regexp-10.md)
+
+* <strong>Js Coding</strong>
+  * [判断工具代码技巧](./docs/codes.md)
+
 * <strong>你必须知道的Js面试题</strong>
   * [1、typeof bar潜在陷阱 <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>](./docs/basic.md)
   * [2、代码块1：下面的代码将输出到控制台，为什么？](./docs/mustKnow/mk-1.md)
@@ -75,58 +128,6 @@
   * [35、typeof undefined == typeof NULL的结果？](./docs/mustKnow/mk-34.md)
   * [36、下面代码会返回什么？](./docs/mustKnow/mk-35.md)
   * [37、下面的代码块，会输出什么？为什么？<span class='new'></span>](./docs/mustKnow/mk-36.md)
-
-* <strong>Js基础</strong>
-  * [NaN 是什么？它的类型是什么？你如何可靠地测试一个值是否等于 NaN ？](./docs/js-nan.md)
-  * [<span></span>记忆化斐波那契函数（Memoization）](./docs/js-memoi.md)
-  * [javascript有哪几种数据类型](./docs/basic/js-1-2.md)
-  * [写一个函数，满足curry(fn)(1)(2)(3)](./docs/basic/js-1-3.md)
-  * [undefined与null的区别](./docs/basic/js-1-7.md)
-  * [如何获取UA？](./docs/basic/js-1-8.md)
-  * [解释代码块结果？](./docs/basic/js-1-10.md)
-
-* <strong>原型、原型链、继承、作用域</strong>
-  * [什么是原型，原型有什么特点?](./docs/basic/pro-1.md)
-  * [什么是原型链，原型链有什么特点?](./docs/basic/pro-2.md)
-  * [创建“内置”方法 <i class='iconS'></i><i class='iconS'></i>](./docs/basic/js-1-1.md)
-  * [字符串增加原型方法spacify](./docs/string-1.md)
-  * [使用原生JS实现Number原型链方法](./docs/basic/js-1-4.md)
-  * [代码片段，请输出结果？](./docs/basic/js-1-5.md)
-
-* <strong>闭包</strong>
-  * [<span></span>代码片段输出什么？<i class='iconS'></i><i class='iconS'></i>](./docs/bb-1.md)
-
-* <strong>this</strong>
-  * [对于this对象的理解](./docs/this/this-1.md)
-  * [经典关于this面试知识点题目](./docs/this/this-6.md)
-  * [1、代码块题](./docs/this/this-2.md)
-  * [2、代码块题](./docs/this/this-3.md)
-  * [3、代码块题](./docs/this/this-4.md)
-  * [4、代码块题](./docs/this/this-5.md)
-  
-* <strong>Array</strong>
-  * [找出数字数组中最大的元素（使用Math.max函数）](./docs/array/array-5.md)
-  * [下面代码块输出结果？](./docs/array/array-1.md)
-  * [编写一个函数，进行数组去重](./docs/array/array-2.md)
-  * [数组的原生方法有哪些？](./docs/array/array-3.md)
-  * [如何判断一个变量是否为数组？<i class='iconS'></i><i class='iconS'></i>](./docs/array/array-4.md)
-
-* <strong>Promise</strong>
-  * [<span></span>代码块（阿里二面）<span class="new"></span>](./docs/promise-1.md)
-
-* <strong>正则表达式Regexp</strong>
-  * [检验一个字符串首尾是否含有数字 <i class='iconS'></i><i class='iconS'></i>](./docs/regexp/regexp-1.md)
-  * [对字符串var str = "1000000000" 进行科学计数法](./docs/regexp/regexp-2.md)
-  * [判断字符串是否包含数字](./docs/regexp/regexp-4.md)
-  * [判断是否符合 USD 格式](./docs/regexp/regexp-5.md)
-  * [对连字符串转换为驼峰命名法](./docs/regexp/regexp-6.md)
-  * [判断是否以元音字母结尾](./docs/regexp/regexp-7.md)
-  * [邮政编码的验证（开头不能为0，共6位）](./docs/regexp/regexp-8.md)
-  * [匹配ip地址](./docs/regexp/regexp-9.md)
-  * [检测人民币金额，两位小数](./docs/regexp/regexp-10.md)
-
-* <strong>Js Coding</strong>
-  * [判断工具代码技巧](./docs/codes.md)
 
 * <strong>JavaScript Puzzlers!(Js谜题)</strong>
   * [当parseInt遇到map](./docs/reallyKnow/rk-1.md)
