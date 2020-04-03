@@ -1,4 +1,5 @@
-* NEWS(10个)<span class="new"></span>
+* NEWS<span class="new"></span>
+  * [编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组](array/array-6.md)
   * [如何让(a===1&&a===2&&a===3)的值为true?](basic/js-1-22.md)
   * [代码块输出结果？](basic/js-1-21.md)
   * [('b'+'a'+ + 'a'+'a').toLowerCase() === 'banana'？](basic/js-1-20.md)
