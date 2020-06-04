@@ -1,8 +1,8 @@
 ![logo](./web-logo-120.png ':no-zoom')
 
-# Font-end-interview-js
+# Font-end-interview
 
-> 前端面试interview的JS题目收集，持续更新(目前133道)
+> 前端面试interview的题目收集，持续更新(目前133道)
 
 > **勿浅尝辄止**
 
