@@ -1,19 +1,19 @@
 @import 'iconfont/iconfont.css';
-
+/* #42b983 #9B30FF */
 .gt-container .gt-btn{
-    background-color: #9B30FF;
+    background-color: #42b983;
 }
 .gt-container .gt-header-controls-tip,.gt-container a:hover,.gt-container a,.gt-container .gt-comment-username{
-    color: #9B30FF;
+    color: #42b983;
 }
 .gt-container .gt-svg svg{
-    fill: #9B30FF;
+    fill: #42b983;
 }
 .gt-container .gt-link{
-    border-bottom: #9B30FF;
+    border-bottom: #42b983;
 }
 .gt-container .gt-popup .gt-action.is--active:before{
-    background-color: #9B30FF;
+    background-color: #42b983;
 }
 
 .sidebar .sidebar-nav li{
@@ -21,7 +21,7 @@
 }
 .sidebar .sidebar-nav li span{
     display: inline-block;
-    color: #9B30FF;
+    color: #42b983;
     position: absolute;
     top:-2px;
     left: -24px;
@@ -54,7 +54,7 @@
     display: inline-block;
     content: "\e70a";
     font-size: 30px;
-    color: #9B30FF;
+    color: #42b983;
 }
 .sidebar ul li a .iconS::before{
     font-size: 14px;
