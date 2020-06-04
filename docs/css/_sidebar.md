@@ -1,5 +1,5 @@
 * [返回](welcome.md)
-* [Font-end-interview-css](css/index.md)
+* [CSS](css/index.md)
 * CSS
   * [CSS选择器有哪些？哪些属性可以继承？](css/basic.md)
   * [<span></span>link与@import的区别](css/link-import.md)
