@@ -1,4 +1,4 @@
-* [返回](../welcome.md)
+* [返回](welcome.md)
 * [React](react/index.md)
 
 * React

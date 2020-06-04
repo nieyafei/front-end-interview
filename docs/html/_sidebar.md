@@ -1,4 +1,4 @@
-* [返回](../welcome.md)
+* [返回](welcome.md)
 * [Font-end-interview-html](html/index.md)
 * HTML
   * [HTML和XHTML的区别](html/basic.md)

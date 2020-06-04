@@ -10,7 +10,7 @@
 - `Content(内容)` - 盒子的内容，显示文本和图像。
 
 <div align="center">
-![image](assets/images/css_articlex.gif)
+![image](images/css_articlex.gif)
 </div>
 
 > `标准盒子模型：宽度=内容的宽度（content）+ border + padding + margin`

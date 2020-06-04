@@ -1,4 +1,4 @@
-* [返回](../welcome.md)
+* [返回](welcome.md)
 * [计算机基础](basic-computer/index.md)
 
 * 网络基础、HTTP、TCP/IP

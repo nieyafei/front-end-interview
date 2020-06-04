@@ -1,4 +1,4 @@
-* [返回](../welcome.md)
+* [返回](welcome.md)
 * [算法](algorithm/index.md)
 
   * [<span></span>常见排序算法的时间复杂度,空间复杂度](algorithm/algorithm-1.md)

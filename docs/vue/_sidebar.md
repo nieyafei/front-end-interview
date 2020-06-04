@@ -1,4 +1,4 @@
-* [返回](../welcome.md)
+* [返回](welcome.md)
 * [Vue](basic-computer/index.md)
 
 * Vue

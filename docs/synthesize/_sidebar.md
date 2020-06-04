@@ -1,4 +1,4 @@
-* [返回](../welcome.md)
+* [返回](welcome.md)
 * [综合其它](synthesize/index.md)
 
 * 综合

@@ -1,4 +1,4 @@
-* [返回](../welcome.md)
+* [返回](welcome.md)
 * [Font-end-interview-css](css/index.md)
 * CSS
   * [CSS选择器有哪些？哪些属性可以继承？](css/basic.md)
