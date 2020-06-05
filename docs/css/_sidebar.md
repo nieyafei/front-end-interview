@@ -17,6 +17,8 @@
   * [span标签的width和height分别为多少？](css/css-wi-he-code.md)
   * [display:inline-block 什么时候会显示间隙？](css/css-3.md)
   * [常见的兼容性问题？](css/css-4.md)
+  * [如何解决a标点击后hover事件失效的问题?](css/5.md)
+  * [div+css布局的优势和弊端](css/6.md)
 
 * CSS3
   * [介绍一下box-sizing<span class='new'></span>](css/css-boxs.md)

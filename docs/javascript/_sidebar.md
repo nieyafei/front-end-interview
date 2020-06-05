@@ -2,6 +2,7 @@
 * [返回](welcome.md)
 * [Font-end-interview-js](javascript/index.md)
 * NEWS
+  * [setTimeout的执行原理(EventLoop)](javascript/basic/23.md)
   * [编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组<span class='new'></span>](javascript/array/array-6.md)
   * [如何让(a===1&&a===2&&a===3)的值为true?](javascript/basic/js-1-22.md)
   * [代码块输出结果？](javascript/basic/js-1-21.md)
