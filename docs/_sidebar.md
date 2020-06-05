@@ -2,7 +2,7 @@
   * [计算机基础（21）](basic-computer/index.md)
   * [HTML（18）](html/index.md)
   * [CSS（22）](css/index.md)
-  * [Javascript（135）](javascript/index.md)
+  * [Javascript（136）](javascript/index.md)
   * [React（20）](react/index.md)
   * [Vue（3）](vue/index.md)
   * [Node（2）](node/index.md)
