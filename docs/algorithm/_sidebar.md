@@ -1,6 +1,10 @@
 * [返回](welcome.md)
 * [算法](algorithm/index.md)
 
+  * [统计出该地图中有多少个岛屿？](algorithm/10.md)
+  * [给定一个只包含数字的字符串，复原它并返回所有可能的 IP 地址格式](algorithm/11.md)
+  * [局域网之计算出计算机中的已知的局域网总数](algorithm/9.md)
+  * [轮回之数组的移动](algorithm/8.md)
   * [<span></span>常见排序算法的时间复杂度,空间复杂度](algorithm/algorithm-1.md)
   * [素数: 你将如何验证一个素数？](algorithm/alg-2.md)
   * [素数因子: 如何求出一个数的所有素数因子？](algorithm/alg-3.md)
