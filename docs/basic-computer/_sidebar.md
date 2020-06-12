@@ -26,4 +26,7 @@
   * [怎么预防文件上传漏洞？](basic-computer/browser/004.md)
   * [window.opener安全问题](basic-computer/browser/005.md)
   * [如何减少回流?](basic-computer/browser/006.md)
+  * [浏览器的渲染过程](basic-computer/browser/007.md)
 
+* 其它
+  * [V8如何执行一段JS代码](basic-computer/other/1.md)
