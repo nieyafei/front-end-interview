@@ -25,4 +25,5 @@
   * [浏览器的主要组成部分是什么？](basic-computer/browser/003.md)
   * [怎么预防文件上传漏洞？](basic-computer/browser/004.md)
   * [window.opener安全问题](basic-computer/browser/005.md)
+  * [如何减少回流?](basic-computer/browser/006.md)
 

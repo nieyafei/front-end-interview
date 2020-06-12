@@ -2,6 +2,7 @@
 * [返回](welcome.md)
 * [Javascript](javascript/index.md)
 * NEWS
+  * [一道被轻视的JS代码题目](javascript/basic/25.md)
   * [setTimeout的执行原理(EventLoop)](javascript/basic/23.md)
   * [requestAnimationFrame和setTimeout的区别？](javascript/basic/24.md)
   * [编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组<span class='new'></span>](javascript/array/array-6.md)
