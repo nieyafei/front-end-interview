@@ -1,6 +1,7 @@
 * [返回](welcome.md)
 * [算法](algorithm/index.md)
 
+  * [N皇后（高频）](algorithm/14.md)
   * [统计出该地图中有多少个岛屿？](algorithm/10.md)
   * [给定一个只包含数字的字符串，复原它并返回所有可能的 IP 地址格式](algorithm/11.md)
   * [局域网之计算出计算机中的已知的局域网总数](algorithm/9.md)

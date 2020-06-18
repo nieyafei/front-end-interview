@@ -7,7 +7,7 @@
   * [React（20）](react/index.md)
   * [Vue（3）](vue/index.md)
   * [Node（2）](node/index.md)
-  * [算法（12）](algorithm/index.md)
+  * [算法（13）](algorithm/index.md)
   * [综合其它（10）](synthesize/index.md)
 
 * 其他
