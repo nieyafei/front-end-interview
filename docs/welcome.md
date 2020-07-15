@@ -21,4 +21,5 @@
 * [「中高级前端面试」JavaScript手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6)
 * [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
 * [[译] 送你 43 道 JavaScript 面试题](https://juejin.im/post/5d0644976fb9a07ed064b0ca)
+* [每天一道面试题，有关前端，后端，devops以及软技能，促进职业成长，敲开大厂之门。](https://github.com/shfshanyue/Daily-Question)
 * [持续更新中]()
