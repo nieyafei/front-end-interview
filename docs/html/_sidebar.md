@@ -14,6 +14,7 @@
   * [<span></span>href和src的区别?](html/html-hs.md)
   * [<span></span>行内元素、块级元素、空元素都有哪些?<span class='new'></span>](html/html-line.md)
   * [Quirks模式是什么？它和Standards模式有什么区别?](html/hl-1.md)
+  * [HTML5如何监听video的全屏和退出全屏？](html/001.md)
 
 * HTML5
   * [什么是HTML5？](html/html5.md)

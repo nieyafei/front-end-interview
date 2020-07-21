@@ -22,4 +22,5 @@
   * [传入 setState 函数的第二个参数的作用是什么？](react/re-14.md)
   * [此代码块有错误吗？](react/re-15.md)
   * [如何避免在React重新绑定实例？](react/re-20.md)
+  * [什么渲染劫持？](react/252.md)
 

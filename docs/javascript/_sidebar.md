@@ -2,6 +2,7 @@
 * [返回](welcome.md)
 * [Javascript](javascript/index.md)
 * NEWS
+  * [使用window.open(url)下载文件时为什么会被浏览器拦截？如何解决？](javascript/basic/26.md)
   * [一道被轻视的JS代码题目](javascript/basic/25.md)
   * [setTimeout的执行原理(EventLoop)](javascript/basic/23.md)
   * [requestAnimationFrame和setTimeout的区别？](javascript/basic/24.md)

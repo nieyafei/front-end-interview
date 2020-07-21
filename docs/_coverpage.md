@@ -2,7 +2,7 @@
 
 # Font-end-interview
 
-> 前端面试interview的题目收集，持续更新(目前248道)
+> 前端面试interview的题目收集，持续更新(目前252道)
 
 > **勿浅尝辄止**
 
