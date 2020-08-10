@@ -7,6 +7,7 @@
 
 > 此次更新合并了其他的面试题收集在一个项目，其他项目会删除掉
 
+- [同步语雀](https://www.yuque.com/codehtml/front-end-interview)
 - [在线访问](http://codehtml.cn/front-end-interview/)
 
 ### clone或者Fork之后clone到本地

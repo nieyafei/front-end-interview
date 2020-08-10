@@ -27,6 +27,7 @@
   * [window.opener安全问题](basic-computer/browser/005.md)
   * [如何减少回流?](basic-computer/browser/006.md)
   * [浏览器的渲染过程](basic-computer/browser/007.md)
+  * [从页面 A 打开一个新页面 B，B 页面关闭（包括意外崩溃），如何通知 A 页面？（腾讯）](basic-computer/browser/253.md)
 
 * 其它
   * [V8如何执行一段JS代码](basic-computer/other/1.md)
